@@ -8,3 +8,4 @@ Helm Charts in this repo:
 - Should be versioned only when the structure of the chart changes (not for image tag changes) - this minimizes chart version sprawl
   - Image tags are referenced from Global values in the umbrella chart (image tag changes are versioned there)
 
+Added line for CI push
